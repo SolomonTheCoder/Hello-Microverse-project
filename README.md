@@ -28,7 +28,7 @@
 
 > This is my first Microverse project.
 
-**[your_project__name]** is Hello Microverse project.
+**[Hello Microverse project]**
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -91,75 +91,36 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-<!--
-Example command:
+In order to run this project you need:
+1. Knowledge HTML and CSS
 
-```sh
- gem install rails
-```
- -->
+2. VSCode or other text editor installed. [Link to download VSCode](https://code.visualstudio.com/download)
+
+3. Node package. [Link to download node](https://nodejs.org/en/download/)
 
 ### Setup
 
 Clone this repository to your desired folder:
-
-<!--
-Example commands:
-
-```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
-```
---->
+use this command to clone my repository "git clone"
+add this link (https://github.com/SolomonTheCoder/Hello-Microverse-project.git)
 
 ### Install
 
 Install this project with:
 
-<!--
-Example command:
-
-```sh
-  cd my-project
-  gem install
-```
---->
+- npm install
 
 ### Usage
 
 To run the project, execute the following command:
 
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
+- npm start
 
 ### Run tests
 
 To run tests, run the following command:
 
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
-
-### Deployment
-
-You can deploy this project using:
-
-<!--
-Example:
-
-```sh
-
-```
- -->
+- npm test
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
